@@ -1,4 +1,4 @@
-Transaction ID,Age , Items ,Monthly Income,Transaction Time,Record,Gender,City Tier,Total Spend
+Transaction ID,Age,Items,Monthly Income,Transaction Time,Record,Gender,City Tier,Total Spend
 TXN001,42,10,7313,627.6681268,5,Female,Tier 1,4198.385084
 TXN002,24,8,17747,126.9045667,3,Female,Tier 2,4134.976648
 TXN003,47,11,22845,873.4697005,2,Male,Tier 2,5166.614455
